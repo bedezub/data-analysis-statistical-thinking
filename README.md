@@ -4,7 +4,7 @@ The data is about IBM Telco Customer Churn. The dataset is downloaded from [Stri
 
 ### Content
 
-1. Title: IBM Customer Chrun Dataset
+1. Title: IBM Customer Churn Dataset
 2. Sources: 
 
     Origin: This dataset was taken from Srivatsan88' YoutubeLI Github Repository. I downloaded the dataset in order to walkthrough the Youtube video published by AIEngineering, [Statistical Thinking - Imputing Missing Values](https://youtu.be/JGv9gaCU0i4)
